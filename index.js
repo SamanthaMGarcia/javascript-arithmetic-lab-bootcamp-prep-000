@@ -23,6 +23,6 @@ function preserveDecimal(a) {
   return (a)
 }
 function preserveDecimal(a) {
-  return a
+  return (a)
 }
 preserveDecimal('banana')
