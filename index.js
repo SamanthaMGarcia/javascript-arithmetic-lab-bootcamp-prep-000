@@ -22,3 +22,4 @@ function makeInt(a) {
 function makeInt(a) {
   return 0
 }
+function parseInt
