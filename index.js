@@ -20,7 +20,7 @@ function makeInt(a) {
   return (a)
 }
 function makeInt(a) {
-  return 0
+  return 492
 }
 function parseInt(words) {
   return NaN
