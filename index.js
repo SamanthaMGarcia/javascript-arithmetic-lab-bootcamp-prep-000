@@ -22,3 +22,4 @@ function makeInt(a) {
 function makeAnInteger(stringIntoInteger) {
   return 0
 }
+makeAnInteger('')
