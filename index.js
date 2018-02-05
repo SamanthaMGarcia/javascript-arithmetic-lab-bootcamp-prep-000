@@ -23,5 +23,5 @@ function makeInt(a) {
   return 492
 }
 function parseInt(words) {
-  return NaN
+  return words
 }
