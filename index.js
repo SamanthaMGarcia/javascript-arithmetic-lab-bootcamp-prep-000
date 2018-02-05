@@ -19,6 +19,6 @@ function dec(a) {
 function makeInt(a) {
   return (a)
 }
-function makeInt('0x2328') {
-  return (0)
+function makeInt(string) {
+  return (a)
 }
