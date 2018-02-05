@@ -19,6 +19,6 @@ function dec(a) {
 function makeInt(a) {
   return (a)
 }
-function makeAnInteger(stringIntoInteger) {
-  return 
+function makeAnIntegerAndAddOne(stringIntoInteger) {
+  return parseInt(stringIntoInteger) + 1;
 }
