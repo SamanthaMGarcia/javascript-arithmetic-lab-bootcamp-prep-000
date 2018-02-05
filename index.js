@@ -17,5 +17,5 @@ function dec(a) {
   return (a - 1)
 }
 function makeInt(string) {
-  return parseInt(string);
+  return parseInt(string, 10);
 }
