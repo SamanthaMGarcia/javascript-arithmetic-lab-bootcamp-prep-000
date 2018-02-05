@@ -22,3 +22,7 @@ function makeInt(a) {
 function preserveDecimal(a) {
   return (a)
 }
+function preserveDecimal(a) {
+  return a
+}
+preserveDecimal('banana')
