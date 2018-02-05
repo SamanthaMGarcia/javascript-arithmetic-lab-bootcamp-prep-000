@@ -22,6 +22,5 @@ function makeInt(a) {
 function makeInt(a) {
   return 0
 }
-function p('nonsense!', 10) {
-  return (a)
+function parseInt('nonsense!', 10) {
 }
