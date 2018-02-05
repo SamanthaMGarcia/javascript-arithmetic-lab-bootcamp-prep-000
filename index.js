@@ -20,6 +20,5 @@ function makeInt(a) {
   return (a)
 }
 function makeAnInteger(stringIntoInteger) {
-  return 0
+  return 
 }
-makeAnInteger('')
