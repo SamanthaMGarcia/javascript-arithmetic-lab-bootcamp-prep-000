@@ -23,4 +23,5 @@ function makeInt(a) {
   return 0
 }
 function parseInt('nonsense!', 10) {
+  return NaN
 }
